@@ -10,7 +10,7 @@ We analyzed data from Kickstarter dataset to help Louise set fundraising goals f
 
 ### Analysis of Outcomes Based on Launch Date
 
-We looked at all the theater category fundraisers and compared the outcomes based on the fundraiser launch month. The below visualization shows how may fundraisers were successful, how many failed and how many were cancelled based on the campaign launch month since 2009
+We looked at all the theater category fundraisers and compared the outcomes based on the fundraiser launch month. The below visualization shows how many fundraisers were successful, how many failed and how many were cancelled based on the campaign launch month since 2009
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/87611145/129303868-3249bac4-c8d4-4fed-b9ab-e951200348c6.png)
 
