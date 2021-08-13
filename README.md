@@ -22,6 +22,8 @@ We looked at all the plays to evaluate what fundraising budget goals generated m
 
 ### Challenges and Difficulties Encountered
 
+One of the main challenges encountered with this data set was UNIX Timestamp used to signify the deadline and the launch date. We were able to overcome this challenge by converting the UNIX Timestamp to a usable date format by applying a formula that converted seconds since January 1, 1970 to an actual date. This allowed us to understand the timeframes for each fundraiser. 
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
