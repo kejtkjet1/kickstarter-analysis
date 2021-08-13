@@ -31,12 +31,12 @@ One of the main challenges encountered with this data set was UNIX Timestamp use
   - December had the lowest number of successful campaign launches. Nearly half of the campaigns launched that month failed
 
 - Conclusions from evaluating outcomes based on goal
-  - The lower budget campaigns had much higher success percentage. The most successful campaigns had goals of up to $5K.  There is an uptick of successful campaigns between $35K-$45K goal, but nearly all Kickstarter campaigns above that goal failed.
+  - The lower budget campaigns had much higher success percentage. The most successful campaigns had goals of up to 5K.  There is an uptick of successful campaigns between 35K-45K goal, but nearly all Kickstarter campaigns above that goal failed.
 
 - Dataset Limitations
 
   - The data only looks at fundig from Kickstarter, there are additional ways to collect fundraising for plays or theater productions. Additionaly we only see the fundraising goals, not the actual budgets for each play. 
-  - While we are seeing fundraising goals, not all of them are listed in USD. In order to truly understand the budget goals we would need to apply an exchange rate to convert all the currencies to one uniform currency> Alternatively, we would should evaluate the data only on a market by market basis. 
+  - While we are seeing fundraising goals, not all of them are listed in USD. In order to truly understand the budget goals we would need to apply an exchange rate to convert all the currencies to one uniform currency. Alternatively, we would should evaluate the data only on a market by market basis. 
   - The dataset only includes campaigns till 2017. The world has changed significantly since that year, and so did the economy in those markets. We need to keep in mind that we are making conclusions while looking at historical, and not very recent data. 
 
 - Additional tables and graphs we could create to dive deeper
