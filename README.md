@@ -30,9 +30,21 @@ One of the main challenges encountered with this data set was UNIX Timestamp use
   - Most of the campaigns launched in May and it appears that campaigns launched that month had the highest chance of success
   - December had the lowest number of successful campaign launches. Nearly half of the campaigns launched that month failed
 
-- What can you conclude about the Outcomes based on Goals?
+- Conclusions from evaluating outcomes based on goal
+  - The lower budget campaigns had much higher success percentage. The most successful campaigns had goals of up to $5K.  There is an uptick of successful campaigns between $35K-$45K goal, but nearly all Kickstarter campaigns above that goal failed.
 
-- What are some limitations of this dataset?
+- Dataset Limitations
 
-- What are some other possible tables and/or graphs that we could create?
-![image](https://user-images.githubusercontent.com/87611145/129303751-a684e6b4-4864-4677-829c-188937d37125.png)
+  - The data only looks at fundig from Kickstarter, there are additional ways to collect fundraising for plays or theater productions. Additionaly we only see the fundraising goals, not the actual budgets for each play. 
+  - While the fundraising goals are listed in USD, there is sure to be flctuation in the exhange rates. Some of the countries captured have undergone significant currecy devaluation so the data for campaign goals may look very different when looking at pre and post devaluation. 
+  - The dataset only includes campaigns till 2017. The world has changed significantly since that year, and so did the economy in those markets. We need to keep in mind that we are making conclusions while looking at historical, and not very recent data. 
+
+- Additional tables and Graphs we could create to dive deeper
+
+  - One important piece of infomration is the fundraising campaign lenghth. It would help to evaluate if longer or shorter fundraising campaigns generated more successful outcomes  
+  - We should re-create the visualizations above for outcomes that look at the target market only. While its helpul to evaluate Kickstarter campaigs for all the markets, we will not get a clear picture unless we only look at the country we are intersted in. Each market may be affected by regional nuances
+  - We should also recreate the vizualizations above looking at more recent years only. While looking at a larger data set allows us to see seasonality, the marketplace surely has changed significantly since 2009. A look at more recent years may provide more relevant information to base our decision on.
+  - We shold also create a visualization that looks at percentage success based on average donation by backer. It will help us evaluate if more successful plays depended heavily on couple of large donations, or if the success depended on numberous smaller donors showing a mass appead of the play. 
+
+
+
