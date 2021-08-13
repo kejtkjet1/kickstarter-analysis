@@ -39,7 +39,7 @@ One of the main challenges encountered with this data set was UNIX Timestamp use
   - While the fundraising goals are listed in USD, there is sure to be flctuation in the exhange rates. Some of the countries captured have undergone significant currecy devaluation so the data for campaign goals may look very different when looking at pre and post devaluation. 
   - The dataset only includes campaigns till 2017. The world has changed significantly since that year, and so did the economy in those markets. We need to keep in mind that we are making conclusions while looking at historical, and not very recent data. 
 
-- Additional tables and Graphs we could create to dive deeper
+- Additional tables and graphs we could create to dive deeper
 
   - One important piece of infomration is the fundraising campaign lenghth. It would help to evaluate if longer or shorter fundraising campaigns generated more successful outcomes  
   - We should re-create the visualizations above for outcomes that look at the target market only. While its helpul to evaluate Kickstarter campaigs for all the markets, we will not get a clear picture unless we only look at the country we are intersted in. Each market may be affected by regional nuances
