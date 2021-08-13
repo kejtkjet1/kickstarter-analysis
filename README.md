@@ -27,8 +27,8 @@ One of the main challenges encountered with this data set was UNIX Timestamp use
 ## Results
 
 - Conclusions from evaluating outcomes based on launch dates
- - Most of the campaigns launched in May and it appears that campaigns launched that month had the highest chance of success
- - December had the lowest number of successful campaign launches. Nearly half of the campaigns launched that month failed
+  - Most of the campaigns launched in May and it appears that campaigns launched that month had the highest chance of success
+  - December had the lowest number of successful campaign launches. Nearly half of the campaigns launched that month failed
 
 - What can you conclude about the Outcomes based on Goals?
 
