@@ -10,7 +10,11 @@ We analyzed data from Kickstarter dataset to help Louise set fundraising goals f
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/87611145/129303868-3249bac4-c8d4-4fed-b9ab-e951200348c6.png)
+
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/87611145/129303893-7264ca58-dd6e-41e1-bcdb-073ae7a26544.png)
 
 ### Challenges and Difficulties Encountered
 
