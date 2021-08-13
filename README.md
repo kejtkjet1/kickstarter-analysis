@@ -4,6 +4,8 @@
 
 ### Purpose
 
+We analyzed data from Kickstarter dataset to help Louise set fundraising goals for her play Fever. We analyzed how different fundraising campaigns fared in relation to their launch dates as well as funding goals 
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
@@ -21,4 +23,4 @@
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
-![image](https://user-images.githubusercontent.com/87611145/129301244-4cbfbe86-dd08-46bf-af3f-25afe88afe2e.png)
+![image](https://user-images.githubusercontent.com/87611145/129303751-a684e6b4-4864-4677-829c-188937d37125.png)
