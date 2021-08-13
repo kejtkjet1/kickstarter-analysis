@@ -36,15 +36,15 @@ One of the main challenges encountered with this data set was UNIX Timestamp use
 - Dataset Limitations
 
   - The data only looks at fundig from Kickstarter, there are additional ways to collect fundraising for plays or theater productions. Additionaly we only see the fundraising goals, not the actual budgets for each play. 
-  - While the fundraising goals are listed in USD, there is sure to be flctuation in the exhange rates. Some of the countries captured have undergone significant currecy devaluation so the data for campaign goals may look very different when looking at pre and post devaluation. 
+  - While we are seeing fundraising goals, not all of them are listed in USD. In order to truly understand the budget goals we would need to apply an exchange rate to convert all the currencies to one uniform currency> Alternatively, we would should evaluate the data only on a market by market basis. 
   - The dataset only includes campaigns till 2017. The world has changed significantly since that year, and so did the economy in those markets. We need to keep in mind that we are making conclusions while looking at historical, and not very recent data. 
 
 - Additional tables and graphs we could create to dive deeper
 
   - One important piece of infomration is the fundraising campaign lenghth. It would help to evaluate if longer or shorter fundraising campaigns generated more successful outcomes  
   - We should re-create the visualizations above for outcomes that look at the target market only. While its helpul to evaluate Kickstarter campaigs for all the markets, we will not get a clear picture unless we only look at the country we are intersted in. Each market may be affected by regional nuances
-  - We should also recreate the vizualizations above looking at more recent years only. While looking at a larger data set allows us to see seasonality, the marketplace surely has changed significantly since 2009. A look at more recent years may provide more relevant information to base our decision on.
-  - We shold also create a visualization that looks at percentage success based on average donation by backer. It will help us evaluate if more successful plays depended heavily on couple of large donations, or if the success depended on numberous smaller donors showing a mass appead of the play. 
+  - We should also recreate the vizualizations above looking at more recent years only. While looking at a larger data set allows us to see seasonality, the marketplace surely has changed significantly since 2009. A look at more recent years may provide more relevant information to base our decision on
+  - We shold also create a visualization that looks at percentage success based on average donation by backer. It will help us evaluate if more successful plays depended heavily on couple of large donations, or if the success depended on numberous smaller donors showing a mass appeaf of the play. 
 
 
 
